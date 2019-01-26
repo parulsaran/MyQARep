@@ -3,10 +3,14 @@ import org.testng.annotations.Test;
 public class Day1 {
 
 
-    
+
     @Test
     public void test001() {
         System.out.println("Hello World!");
+        System.out.println((int)('a')-96);
+        System.out.println((int)('b')-96);
+        System.out.println((int)('c')-96);
+        System.out.println((int)('d')-96);
     }
 
     @Test

@@ -6,7 +6,9 @@ public class Day1 {
 
     @Test
     public void test001() {
-        System.out.println("Hello World!");
+        for(int i=0;i<5:i++){
+            System.out.println("Hello World!");
+        }
         System.out.println((int)('a')-96);
         System.out.println((int)('b')-96);
         System.out.println((int)('c')-96);
